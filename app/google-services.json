@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "999870560682",
+    "project_id": "copair-3a405",
+    "storage_bucket": "copair-3a405.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999870560682:android:673879078b5f961c3293d3",
+        "android_client_info": {
+          "package_name": "com.example.copair"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999870560682-vghk0nvdhkb29b1vftv14maa1dkjbejp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.copair",
+            "certificate_hash": "fadd2bf63d617e046b179b72f92d81c887e5654e"
+          }
+        },
+        {
+          "client_id": "999870560682-s7kbja135qf7ru9qtc1k8fticrge5a3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY-4vpZWWj-nja7m9lqftQYhUqwi_lpF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999870560682-s7kbja135qf7ru9qtc1k8fticrge5a3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
